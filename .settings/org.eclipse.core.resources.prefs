@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ua/kiev/prog/automation/framework/core/Product.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/core/Test.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/core/product/Component.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/core/product/component/driver/Session.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/core/product/component/object/PageObject.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/product/app/progkievua/Forum.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/product/app/progkievua/forum/LoginPage.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/product/app/progkievua/forum/MainPage.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/product/app/progkievua/forum/MainPageLoggedIn.java=UTF-8
+encoding//src/main/java/ua/kiev/prog/automation/framework/product/test/LoginTest.java=UTF-8
+encoding/<project>=UTF-8
